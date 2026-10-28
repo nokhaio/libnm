@@ -1,4 +1,4 @@
-# LIBNM
+# Libnm
 
 A personal C library based on 42 School's `libft`, extended with additional functions developed throughout the Common Core and personal projects, following the original restrictions on forbidden functions.
 
@@ -18,27 +18,27 @@ This library is primarily intended for personal use, learning, and experimentati
 
 This library includes custom implementations of the following standard C library functions:
 
-- [ ] `isalpha`
-- [ ] `isdigit`
-- [ ] `isalnum`
-- [ ] `isascii`
-- [ ] `isprint`
-- [ ] `strlen`
-- [ ] `memset`
-- [ ] `bzero`
-- [ ] `memcpy`
-- [ ] `memmove`
-- [ ] `memchr`
-- [ ] `memcmp`
-- [ ] `strlcpy`
-- [ ] `strlcat`
-- [ ] `toupper`
-- [ ] `tolower`
-- [ ] `strchr`
-- [ ] `strrchr`
-- [ ] `strncmp`
-- [ ] `strnstr`
-- [ ] `atoi`
+- `isalpha`
+- `isdigit`
+- `isalnum`
+- `isascii`
+- `isprint`
+- `strlen`
+- `memset`
+- `bzero`
+- `memcpy`
+- `memmove`
+- `memchr`
+- `memcmp`
+- `strlcpy`
+- `strlcat`
+- `toupper`
+- `tolower`
+- `strchr`
+- `strrchr`
+- `strncmp`
+- `strnstr`
+- `atoi`
 
 The project follows the original assignment's restrictions on external functions. The permitted external functions used by the implementations are:
 
@@ -68,8 +68,8 @@ The following functions are not part of the standard C library. They were implem
 
 The following function was added separately and is not part of the standard 42 `libft` assignment:
 
-- [ ] `strstr`
-- [ ] `strspn`
+- `strstr`
+- `strspn`
 
 ## Instructions
 
